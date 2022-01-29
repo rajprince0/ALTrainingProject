@@ -1,0 +1,25 @@
+{
+  "id": "58948d8e-c428-40e3-80d5-ebe0c830397a",
+  "name": "TrainingProject",
+  "publisher": "dtc.infotech",
+  "version": "1.0.0.0",
+  "brief": "This is about training Project",
+  "description": "Training Objects",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "DTC.jpeg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
